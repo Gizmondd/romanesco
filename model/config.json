@@ -1,0 +1,13 @@
+{
+    "save_to": "model",
+    "quiet": false,
+    "num_steps": 100,
+    "embedding_size": 256,
+    "batch_size": 64,
+    "hidden_size": 1024,
+    "vocab_max_size": 10000,
+    "log_to": "logs",
+    "action": "train",
+    "data": "../texts/enwik.train",
+    "epochs": 10
+}
