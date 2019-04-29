@@ -1,0 +1,13 @@
+{
+    "hidden_size": 1024,
+    "data": "./texts/dataset_lower.train",
+    "num_steps": 100,
+    "quiet": false,
+    "embedding_size": 256,
+    "save_to": "./model2/",
+    "vocab_max_size": 30000,
+    "batch_size": 64,
+    "log_to": "./logs2/",
+    "epochs": 10,
+    "action": "train"
+}
